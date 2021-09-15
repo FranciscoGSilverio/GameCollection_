@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.exe
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.deps.json
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.dll
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\bin\Debug\netcoreapp3.1\GameCollection.pdb
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.dll
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.pdb
+C:\Users\franc\OneDrive\Documentos\Programas\C#-OOClass\GameCollection\GameCollection\obj\Debug\netcoreapp3.1\GameCollection.genruntimeconfig.cache
